@@ -72,7 +72,7 @@ Install the project with Vs Code
 Clone the project
 
 ```bash
-  git clone https://github.com/TejasMedade/EngageBay-Clone
+  https://github.com/rahulrathore2110/Engagebay-Clone.git
 ```
 
 Go to the project directory
@@ -98,11 +98,11 @@ To deploy this project
 
 
 ## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rahulrathore2110.github.io/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TejasMedade)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rathore-075a831a0/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMedade)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RahulRa99236717)
 
 
 ## Contributions
@@ -117,7 +117,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Authors
 
-- [@Rahul Rathod](https://www.github.com/rahulrathore2110)
+- [@tejasmadade](https://www.github.com/tejasmadade)
 - [@Deepti Bagel](https://www.github.com/dipti1144)
 - [@Sandeep Gond](https://www.github.com/Sandeepgond)
 
